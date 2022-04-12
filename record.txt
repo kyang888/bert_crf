@@ -1,3 +1,0 @@
-lstm 7838
-no lstm
-wwm_ext 80.15
