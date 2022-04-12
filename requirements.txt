@@ -1,0 +1,7 @@
+conda install python==3.7
+conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch
+pip install tensorboard
+pip install tensorboardX
+pip install sklearn
+pip install pycuda==2021.1
+pip install  onnxruntime-gpu==1.8.0
